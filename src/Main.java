@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        //first problem
         Scanner scanner = new Scanner(System.in);
         int thWidth, thHeight, fWidth, rawNumber, columnNumber;
 
@@ -30,6 +31,8 @@ public class Main {
 
         System.out.println("------------------------------------------------------------");
 
+        //second problem
+
         for (int row = 0; row <= 6; row++) {
             for (int column = 6; column >= row; column--) {
                 System.out.print("* ");
@@ -39,6 +42,7 @@ public class Main {
 
         System.out.println("------------------------------------------------------------");
 
+        //third problem
 
         for (int i = 1; i <= 6; i++) {
             for (int space = 1; space <= 6 - i; space++) {
