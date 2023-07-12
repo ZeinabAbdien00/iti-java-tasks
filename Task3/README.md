@@ -1,5 +1,55 @@
 # Task 3
 
+
+
+Transaction (Abstract)
+transactionId: int
+double execute(Account)
+
+
+Lab3
+
+
+
+
+
+
+
+
+Withdraw
+amount: double
+double execute(Account)
+
+
+BalanceInquiry
+String currencyType()
+double execute(Account )
+
+Deposit
+amount: double
+double execute(Account)             
+                           
+Rollback
+(interface)
+double cancelTransaction(Account)
+
+Account
+accountNumber: integer
+ownerName: String
+balance: double
+
+
+
+
+
+
+
+
+
+
+
+
+
 Design the previous classes and note that
 a)	"execute" method of each class will return the new account balance.
 b)	"execute" method in balance inquiry will return the account balance in the specified currencyType, currencyType could be "U" for USD or "E" for euro
