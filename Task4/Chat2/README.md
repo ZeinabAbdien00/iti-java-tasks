@@ -1,6 +1,6 @@
 # Client Server Chat
 
-## Chat between client and server using console
+## Chat between client and server using console (two way)
 
 ![image](https://github.com/ZeinabAbdien00/iti-tasks/assets/105871085/ec332930-6b7b-4e2f-b423-9c0d1985378f)
 
