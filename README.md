@@ -1,3 +1,3 @@
-# iti-tasks
+# ITI Java Tasks
 
 ## iti summer internship tasks
