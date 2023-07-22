@@ -2,7 +2,7 @@
 
 ## iti summer internship tasks
 
-### Task 1
+### Task 1  -> Theare Square , Draw Patterns
 
 ### Task 2
 
