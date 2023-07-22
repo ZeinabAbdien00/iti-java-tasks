@@ -4,7 +4,7 @@
 
 ### Task 1  -> Theare Square , Draw Patterns
 
-### Task 2
+### Task 2  -> Reverse Digit , Lonfest Word , Time in MilliSeconf
 
 ### Task 3
 
