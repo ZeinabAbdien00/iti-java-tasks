@@ -6,8 +6,8 @@
 
 ### Task 2  -> Reverse Digit , Lonfest Word , Time in MilliSeconf
 
-### Task 3
+### Task 3  -> ATM Transaction
 
-### Task 4
+### Task 4  -> Client Server Chat
 
 ### Task 5
